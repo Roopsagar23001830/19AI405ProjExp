@@ -1,7 +1,7 @@
 # Implement a Sudoku Solver From Scratch
-## NAME:N.NAVYA SREE
-## REG.NO:212223040138
-## AIM:
+## NAME : Roop Sagar S L
+## REG.NO : 212223040175
+## AIM: 
 To implement a Sudoku solver using the backtracking algorithm to find the solution for the given Sudoku puzzle.
 
 ## Steps to solve the Sudoku Puzzle in Python
@@ -81,8 +81,7 @@ else:
 ```
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/5aabdecf-7f9a-4943-924c-3e0fc0332fd0)
-
+![Screenshot 2025-04-25 195804](https://github.com/user-attachments/assets/9ad87072-60e3-403d-ad06-8a01c2713c45)
 
 ## RESULT:
 Thus, a Sudoku solver using the backtracking algorithm is implemented for the given Sudoku puzzle.
